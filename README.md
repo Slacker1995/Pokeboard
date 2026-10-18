@@ -18,7 +18,7 @@ The host can save, resume and reconnect trainers. Master, Music and Sound Effect
 
 ## Access
 
-This repository is private. Friends need access to the repository before they can download a release. This repository distributes the player build and instructions; the authoring project and personal saved games are not included.
+This repository is public. Anyone can download a release without an invitation. This repository distributes the player build and instructions; the authoring project and personal saved games are not included.
 
 ## Credits
 
